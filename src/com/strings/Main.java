@@ -1,4 +1,4 @@
-// Java program to convert replace letter 'l' with 's'
+// Java program to replace letter 'l' with 's'
 
 package com.strings;
 
